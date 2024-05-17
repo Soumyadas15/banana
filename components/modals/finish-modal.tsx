@@ -5,7 +5,6 @@ import { Modal } from "./modal"
 import { useCallback, useEffect, useMemo, useState } from "react"
 import { useModal } from "@/hooks/use-modal-store"
 import { useRouter } from "next/navigation"
-import axios from "axios"
 import Image from "next/image"
 import Button from "../ui/button"
 

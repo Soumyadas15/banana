@@ -5,7 +5,6 @@ import { Modal } from "./modal"
 import { useCallback, useEffect, useMemo, useState } from "react"
 import { useModal } from "@/hooks/use-modal-store"
 import { useRouter } from "next/navigation"
-import axios from "axios"
 import { FruitIcon } from "../icons/fruit-icon"
 
 export const MatchModal = () => {
