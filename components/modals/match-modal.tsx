@@ -69,7 +69,7 @@ export const MatchModal = () => {
                 </div>
             </div>
             <p className="absolute top-0 right-0 m-4 mt-8 text-[#EF8F35] text-6xl font-black font-outline-2">
-                It's a match !
+                It&apos;s a match !
             </p>
         </div>
 
